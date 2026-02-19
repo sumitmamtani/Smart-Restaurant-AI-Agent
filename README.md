@@ -12,3 +12,5 @@ Open your browser and go to:  http://localhost:3000
 Tech Stack: Node.js, Express, LLM Agent Executor using LangChain
 
 Requires Node.js v20+
+
+command to install dependencies: npm install langchain @langchain/community @langchain/google-genai @langchain/core express --legacy-peer-deps
